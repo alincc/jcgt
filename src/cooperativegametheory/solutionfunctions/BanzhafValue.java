@@ -26,7 +26,7 @@ import java.util.Set;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class BanzhafValue extends SolutionFunction{
     CoalitionFunction cf;

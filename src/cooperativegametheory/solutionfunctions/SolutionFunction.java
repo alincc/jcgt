@@ -25,7 +25,7 @@ import java.util.List;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public abstract class  SolutionFunction {
     public abstract CoalitionFunction getCoalitionFunction();

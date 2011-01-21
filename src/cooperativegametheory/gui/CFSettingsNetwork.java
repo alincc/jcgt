@@ -29,7 +29,7 @@ import org.jgrapht.graph.ListenableDirectedGraph;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class CFSettingsNetwork extends CFSettingsPanel {
 

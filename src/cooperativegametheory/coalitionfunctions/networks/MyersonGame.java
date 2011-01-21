@@ -27,7 +27,7 @@ import org.jgrapht.graph.DefaultEdge;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class MyersonGame extends NetworkGame {
     CoalitionFunction cf;

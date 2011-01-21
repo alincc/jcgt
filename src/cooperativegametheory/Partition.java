@@ -27,7 +27,7 @@ import org.apache.commons.collections.ListUtils;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class Partition extends TreeSet<Coalition>{
     PlayerSet players;

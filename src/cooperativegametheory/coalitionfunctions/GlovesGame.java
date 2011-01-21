@@ -26,7 +26,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class GlovesGame implements CoalitionFunction{
 

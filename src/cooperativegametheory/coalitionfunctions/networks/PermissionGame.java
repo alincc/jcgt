@@ -27,7 +27,7 @@ import org.jgrapht.graph.*;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class PermissionGame extends SubordinationGame{
     CoalitionFunction cf;

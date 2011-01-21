@@ -26,7 +26,7 @@ import java.util.TreeSet;
 
 /**
  * this is a wrapper class for PlayerSet, to describe subsets of the playerset
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class Coalition extends ExtendedTreeSet<Integer> implements Comparable<Coalition> {
 

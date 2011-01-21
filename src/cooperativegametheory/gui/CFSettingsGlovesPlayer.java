@@ -20,7 +20,7 @@ package cooperativegametheory.gui;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class CFSettingsGlovesPlayer extends javax.swing.JPanel {
 

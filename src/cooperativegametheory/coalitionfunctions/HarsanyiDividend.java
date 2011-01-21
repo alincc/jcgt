@@ -24,7 +24,7 @@ import cooperativegametheory.PlayerSet;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class HarsanyiDividend implements CoalitionFunction{
 

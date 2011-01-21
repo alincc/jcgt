@@ -23,7 +23,7 @@ import javax.swing.SpinnerNumberModel;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class CFSettingsVotingPlayer extends javax.swing.JPanel {
 

@@ -25,7 +25,7 @@ import java.util.Map;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class SymetricGame implements CoalitionFunction{
 

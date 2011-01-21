@@ -7,7 +7,7 @@ package cooperativegametheory.gui;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public abstract class CFSettingsMeta extends CFSettingsPanel{
     abstract void setSubGame(CFSettingsPanel subGame);

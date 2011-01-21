@@ -14,7 +14,7 @@ import cooperativegametheory.PlayerSet;
  * Onno: 0
  * Max: 1
  * Anna: 2
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class ExampleGame implements CoalitionFunction{
     PlayerSet player;

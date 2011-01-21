@@ -24,7 +24,7 @@ import java.util.Set;
 
 /**
  * 
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class PlayerSet extends ExtendedTreeSet<Integer>{
     /**

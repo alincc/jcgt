@@ -23,7 +23,7 @@ import cooperativegametheory.solutionfunctions.SolutionFunction;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class SFSettingsShapley extends SFSettingsPanel {
 

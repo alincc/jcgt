@@ -30,7 +30,7 @@ import javax.swing.ListSelectionModel;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class SFSettingsPartition extends SFSettingsPanel {
 

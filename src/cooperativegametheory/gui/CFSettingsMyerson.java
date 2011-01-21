@@ -22,7 +22,7 @@ import cooperativegametheory.coalitionfunctions.CoalitionFunction;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class CFSettingsMyerson extends CFSettingsMeta {
 

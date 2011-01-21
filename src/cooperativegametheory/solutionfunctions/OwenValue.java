@@ -30,7 +30,7 @@ import java.util.Set;
 
 /**
  * TODO implement
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class OwenValue extends SolutionFunction {
     Map<Integer, Float> payoffs = new HashMap<Integer, Float>();

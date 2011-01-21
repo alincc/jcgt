@@ -33,7 +33,7 @@ import org.apache.commons.math.util.MathUtils;
  * * null-player
  * this version of the shapley value sums the average marginal contribution over all coalitions. it is much faster than the alternative implementation
  * @see ShapleyValueAlt
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class ShapleyValue extends SolutionFunction {
 

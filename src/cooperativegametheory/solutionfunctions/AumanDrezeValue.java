@@ -23,7 +23,7 @@ import cooperativegametheory.coalitionfunctions.CoalitionFunction;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class AumanDrezeValue extends SolutionFunction{
 

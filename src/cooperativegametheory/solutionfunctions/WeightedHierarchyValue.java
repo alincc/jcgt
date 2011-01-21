@@ -24,7 +24,7 @@ import org.jgrapht.graph.DefaultEdge;
 
 /**
  * TODO implement
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class WeightedHierarchyValue extends SolutionFunction{
 

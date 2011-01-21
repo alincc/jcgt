@@ -38,7 +38,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class CFSettingsVoting extends CFSettingsPanel {
 

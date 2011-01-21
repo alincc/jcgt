@@ -23,7 +23,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public abstract class CFSettingsPanel extends JPanel{
     abstract CoalitionFunction getCF();

@@ -30,7 +30,7 @@ import org.jgrapht.graph.SimpleGraph;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public abstract class NetworkGame implements CoalitionFunction{
     UndirectedGraph<Integer, DefaultEdge> network;

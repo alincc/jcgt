@@ -29,7 +29,7 @@ import cooperativegametheory.coalitionfunctions.CoalitionFunction;
  * * null-player
  * this version of the shapley value sums the average marginal contribution over all rank orders. it is (with large playersets) much slower that the other implementation
  * @see ShapleyValue
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class ShapleyValueAlt extends SolutionFunction {
 

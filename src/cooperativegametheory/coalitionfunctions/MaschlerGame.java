@@ -22,7 +22,7 @@ import java.util.HashMap;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class MaschlerGame extends SymetricGame{
 

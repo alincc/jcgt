@@ -25,7 +25,7 @@ import cooperativegametheory.PlayerSet;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class UnanimityGame implements CoalitionFunction{
 

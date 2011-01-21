@@ -20,7 +20,7 @@ package cooperativegametheory.gui;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 import java.util.*;
 import java.io.*;

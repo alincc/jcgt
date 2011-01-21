@@ -27,7 +27,7 @@ import javax.swing.BoxLayout;
 import javax.swing.JSpinner;
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public class CFSettingsGloves extends CFSettingsPanel {
 

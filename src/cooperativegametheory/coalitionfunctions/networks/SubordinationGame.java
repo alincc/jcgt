@@ -30,7 +30,7 @@ import org.jgrapht.graph.SimpleDirectedGraph;
 
 /**
  *
- * @author jonas
+ * @author Jonas Brekle <jonas.brekle@gmail.com>
  */
 public abstract class SubordinationGame implements CoalitionFunction{
     DirectedGraph<Integer, DefaultEdge> network;
